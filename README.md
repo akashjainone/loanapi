@@ -1,6 +1,6 @@
 # loanapi
 
-##Objective:
+#Objective:
 
 Backend API to provide follwoing features:
     1. To apply for a loan
