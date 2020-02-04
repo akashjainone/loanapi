@@ -18,10 +18,10 @@ Following are the attributes of Loan model:
 
 URLs followed by parameters(if required) for the API:
 
-<localhost/apply>  - name, phone, amount, rate, days
-<localhost/approve>  - loan_id, approve
-<localhost/appliedusers>  -
-<localhost/nonapprovedloans>  -
+- <localhost/apply>  - name, phone, amount, rate, days
+- <localhost/approve>  - loan_id, approve
+- <localhost/appliedusers>  -
+- <localhost/nonapprovedloans>  -
 
 
 ### Author:
