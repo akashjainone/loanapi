@@ -1,6 +1,6 @@
 # loanapi
 
-#Objective:
+## Objective:
 
 Backend API to provide follwoing features:
     1. To apply for a loan
@@ -8,13 +8,13 @@ Backend API to provide follwoing features:
     3. To get the list of all loans applied
 
 
-##Database Structure:
+## Database Structure:
 
 Following are the attributes of Loan model:
     id, name, phone, amount, rate, days, created_date, approved
 
 
-##Usage:
+## Usage:
 
 URLs followed by parameters(if required) for the API:
 
